@@ -1,0 +1,32 @@
+E:\c#\Marketing Agencija\Marketing Agencija\bin\Debug\Marketing Agencija.exe.config
+E:\c#\Marketing Agencija\Marketing Agencija\bin\Debug\Marketing Agencija.exe
+E:\c#\Marketing Agencija\Marketing Agencija\bin\Debug\Marketing Agencija.pdb
+E:\c#\Marketing Agencija\Marketing Agencija\obj\Debug\Marketing Agencija.csproj.AssemblyReference.cache
+E:\c#\Marketing Agencija\Marketing Agencija\obj\Debug\Marketing Agencija.csproj.SuggestedBindingRedirects.cache
+E:\c#\Marketing Agencija\Marketing Agencija\obj\Debug\Forme\frmAnaliza.g.cs
+E:\c#\Marketing Agencija\Marketing Agencija\obj\Debug\Forme\frmIzvestaji.g.cs
+E:\c#\Marketing Agencija\Marketing Agencija\obj\Debug\Forme\frmKampanja.g.cs
+E:\c#\Marketing Agencija\Marketing Agencija\obj\Debug\Forme\frmKlijenti.g.cs
+E:\c#\Marketing Agencija\Marketing Agencija\obj\Debug\Forme\frmRezultati.g.cs
+E:\c#\Marketing Agencija\Marketing Agencija\obj\Debug\Forme\frmTimovi.g.cs
+E:\c#\Marketing Agencija\Marketing Agencija\obj\Debug\Forme\frmUgovori.g.cs
+E:\c#\Marketing Agencija\Marketing Agencija\obj\Debug\Forme\frmZaposleni.g.cs
+E:\c#\Marketing Agencija\Marketing Agencija\obj\Debug\MainWindow.g.cs
+E:\c#\Marketing Agencija\Marketing Agencija\obj\Debug\App.g.cs
+E:\c#\Marketing Agencija\Marketing Agencija\obj\Debug\Marketing Agencija_MarkupCompile.cache
+E:\c#\Marketing Agencija\Marketing Agencija\obj\Debug\Marketing Agencija_MarkupCompile.lref
+E:\c#\Marketing Agencija\Marketing Agencija\obj\Debug\Forme\frmAnaliza.baml
+E:\c#\Marketing Agencija\Marketing Agencija\obj\Debug\Forme\frmIzvestaji.baml
+E:\c#\Marketing Agencija\Marketing Agencija\obj\Debug\Forme\frmKampanja.baml
+E:\c#\Marketing Agencija\Marketing Agencija\obj\Debug\Forme\frmKlijenti.baml
+E:\c#\Marketing Agencija\Marketing Agencija\obj\Debug\Forme\frmRezultati.baml
+E:\c#\Marketing Agencija\Marketing Agencija\obj\Debug\Forme\frmTimovi.baml
+E:\c#\Marketing Agencija\Marketing Agencija\obj\Debug\Forme\frmUgovori.baml
+E:\c#\Marketing Agencija\Marketing Agencija\obj\Debug\Forme\frmZaposleni.baml
+E:\c#\Marketing Agencija\Marketing Agencija\obj\Debug\MainWindow.baml
+E:\c#\Marketing Agencija\Marketing Agencija\obj\Debug\Marketing Agencija.g.resources
+E:\c#\Marketing Agencija\Marketing Agencija\obj\Debug\Marketing_Agencija.Properties.Resources.resources
+E:\c#\Marketing Agencija\Marketing Agencija\obj\Debug\Marketing Agencija.csproj.GenerateResource.cache
+E:\c#\Marketing Agencija\Marketing Agencija\obj\Debug\Marketing Agencija.csproj.CoreCompileInputs.cache
+E:\c#\Marketing Agencija\Marketing Agencija\obj\Debug\Marketing Agencija.exe
+E:\c#\Marketing Agencija\Marketing Agencija\obj\Debug\Marketing Agencija.pdb
