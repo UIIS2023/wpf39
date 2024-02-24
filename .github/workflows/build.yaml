@@ -31,10 +31,6 @@ jobs:
         run: dotnet tool install --global dotnet-sonarscanner
         shell: powershell
 
-      - name: Restore NuGet packages
-        run: msbuild -t:Restore Marketing_Agencija.sln
-        shell: powershell
-
       - name: Begin SonarCloud analysis
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Needed to get PR information, if any
